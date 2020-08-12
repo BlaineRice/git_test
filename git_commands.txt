@@ -1,0 +1,16 @@
+>>>These are helpful Git commands to remember<<<
+
+>>touch <file_name> = create new document
+
+>>git clone git@github.com:<user_name/repo_name> = clone repository to your local machine
+
+>>git status = see status of documents and files:
+		(red == 'not staged' || green == 'ready to push')
+
+>>git add <file_name> = add files to staging area
+
+>>git commit -m "Add <file_name> = adds files to repo
+
+>>git log = see output log
+
+>>git push origin master = upload files to Github
